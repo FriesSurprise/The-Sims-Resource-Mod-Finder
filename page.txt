@@ -1,0 +1,14 @@
+clothing
+1378
+hair
+1
+shoes
+101
+makeup
+1
+accessories
+1
+eyecolors
+1
+skintones
+1
